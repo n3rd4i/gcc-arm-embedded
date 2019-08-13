@@ -1,8 +1,0 @@
-﻿
-VERIFICATION
-Verification is intended to assist the Chocolatey moderators and community
-in verifying that this package's contents are trustworthy.
- 
-<Include details of how to verify checksum contents>
-Site: https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads/7-2018-q2-update
-Search MD5: gcc-arm-none-eabi-7-2018-q2-update-win32.zip
