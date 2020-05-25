@@ -12,7 +12,7 @@
 
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <!-- This section is about the software itself -->
-    <title>gcc-arm-embedded (Install)</title>
+    <title>GNU Arm Embedded Toolchain</title>
     <authors>TerryGuo JoeyYe ThomasPreudhomme KennyKoller ThomasGrieger</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>https://developer.arm.com/open-source/gnu-toolchain/gnu-rm</projectUrl>
