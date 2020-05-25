@@ -19,10 +19,10 @@
     <iconUrl>https://metalcode-eu.gallerycdn.vsassets.io/extensions/metalcode-eu/linux-arm-none-eabi/0.1.2/1540394977939/Microsoft.VisualStudio.Services.Icons.Default</iconUrl>
     <copyright>2018 Arm Developer</copyright>
     <!-- If there is a license Url available, it is required for the community feed -->
-    <licenseUrl>https://developer.arm.com/GetEula?Id=7f7f1581-ce37-49ab-972f-c4163729fa47</licenseUrl>
+    <licenseUrl>https://developer.arm.com/GetEula?Id=c7f2905b-bb90-4f58-8d92-29c57529e789</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>https://gcc.gnu.org/wiki/GitMirror</projectSourceUrl>
-    <docsUrl>https://gcc.gnu.org/onlinedocs/7.3.0/</docsUrl>
+    <docsUrl>https://gcc.gnu.org/onlinedocs</docsUrl>
     <mailingListUrl>https://gcc.gnu.org/lists.html</mailingListUrl>
     <bugTrackerUrl>https://gcc.gnu.org/bugzilla/</bugTrackerUrl>
     <tags>gnu gcc arm embedded</tags>
