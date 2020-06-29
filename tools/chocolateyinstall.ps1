@@ -5,7 +5,6 @@ $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
   unzipLocation = $toolsDir
   url           = $url
-  softwareName  = 'gcc-arm-embedded*'
   checksum      = '49d6029ecd176deaa437a15b3404f54792079a39f3b23cb46381b0e6fbbe9070'
   checksumType  = 'sha256'
 }
