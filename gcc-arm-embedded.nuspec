@@ -4,7 +4,7 @@
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>gcc-arm-embedded</id>
-    <version>10.2.1</version>
+    <version>10.3.1</version>
     <packageSourceUrl>https://github.com/n3rd4i/gcc-arm-embedded</packageSourceUrl>
     <!-- owners is a poor name for maintainers of the package. It sticks around by this name for compatibility reasons. It basically means you. -->
     <owners>n3r4i</owners>
@@ -32,7 +32,7 @@
     The GNU Arm Embedded toolchains are integrated and validated packages featuring the Arm Embedded GCC compiler, libraries and other GNU tools necessary for bare-metal software development on devices based on the Arm Cortex-M and Cortex-R processors. The toolchains are available for cross-compilation on Microsoft Windows, Linux and Mac OS X host operating systems.
 
     </description>
-    <releaseNotes>https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads/7-2018-q2-update</releaseNotes>
+    <releaseNotes>https://developer.arm.com/downloads/-/gnu-rm</releaseNotes>
     <!-- =============================== -->
 
     <!-- Specifying dependencies and version ranges? https://docs.nuget.org/create/versioning#specifying-version-ranges-in-.nuspec-files -->
